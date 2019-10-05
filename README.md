@@ -1,6 +1,8 @@
 # Spreadsheet Formatting Script
 
-A short script to format a spreadsheet. 
+A short script to automate formatting a spreadsheet.
+
+## The Backstory
 
 Fall semester of my Sophomore year of college I was looking for a summer internship. I sent out a bunch of applications and I was keeping track of them in a spreadsheet.
 
@@ -11,4 +13,4 @@ So I learned some vanilla Javascript and over a few days over winter break I dev
 ## To demo
 For now, if you want to see the script in action, clone this repo and view ScriptInAction.mp4
 
-It's 10/4/2019 and I'm busy with school so this will have to do for now.
+School and work take up most of my time at the moment, so this less than ideal solution for a demo will have to do.
