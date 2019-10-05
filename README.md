@@ -7,3 +7,8 @@ Fall semester of my Sophomore year of college I was looking for a summer interns
 The spreadsheet grew pretty quickly and manually formatting it was getting to be way too cumbersome. So I did some research and found Google Apps Scripts. At this point in my career I only knew some Java and basically nothing else.
 
 So I learned some vanilla Javascript and over a few days over winter break I developed this script to format my spreadsheet for me.
+
+## To demo
+For now, if you want to see the script in action, clone this repo and view ScriptInAction.mp4
+
+It's 10/4/2019 and I'm busy with school so this will have to do for now.
