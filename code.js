@@ -115,25 +115,3 @@ function DISTANCE(here, there) {
   
   return mins;
 }
-
-/**
-* @customfunction
-*/
-function DOUBLE(num) {
- return num*2; 
-}
-
-/**
-* @customfunction
-*/
-function TRAVELTIME(here, there) {
-  var mapObj = Maps.newDirectionFinder();
-  mapObj.setOrigin(here);
-  mapObj.setDestination(there);
-  
-  var directions = mapObj.getDirections();
-  var getTheLeg = directions["routes"][0]["legs"][0];
-  var mins = getTheLeg["duration"]["text"];
-  
-  return mins; 
-}
